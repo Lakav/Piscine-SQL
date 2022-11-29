@@ -1,1 +1,1 @@
-ALTER TABLE artists ADD year INT;
+ALTER TABLE artists ADD year INTEGER;
