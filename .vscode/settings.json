@@ -3,8 +3,8 @@
         {
             "previewLimit": 50,
             "driver": "SQLite",
-            "database": "/Users/julescavanier/Desktop/SQL DB/chinook.db",
-            "name": "sql"
+            "name": "sql",
+            "database": "/Users/julescavanier/Downloads/chinook.db"
         }
     ]
 }
