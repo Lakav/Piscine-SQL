@@ -4,12 +4,6 @@
             "previewLimit": 50,
             "driver": "SQLite",
             "database": "/Users/julescavanier/Desktop/SQL DB/chinook.db",
-            "name": "chinook"
-        },
-        {
-            "previewLimit": 50,
-            "driver": "SQLite",
-            "database": "/Users/julescavanier/Desktop/SQL DB/chinook.db",
             "name": "sql"
         }
     ]
