@@ -1,1 +1,1 @@
-SELECT InvoiceId, Total FROM invoices WHERE city IN ('Paris', 'London');
+SELECT InvoiceId, Total FROM invoices WHERE City IN ('Paris', 'London');
